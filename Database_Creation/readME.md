@@ -1,0 +1,1 @@
+This folder provides code on how to create, maintain, and query databases containing Statcast and MLB API data. Soem of this code was borrowed from tutorials such as Robert Frey (https://www.youtube.com/watch?v=nt0fjUlMvDE) and Down on the Farm (https://downonthefarm.substack.com/p/how-to-getting-minor-league-play).
