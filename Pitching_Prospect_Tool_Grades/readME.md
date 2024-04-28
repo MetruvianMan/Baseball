@@ -1,0 +1,1 @@
+This folder contains code and sample visuals for creating pinwheel charts (overlapping polar bar charts) that show the tool or stuff grades of amateur, collegiate, or professional pitchers. This type of plot allows for comparison of current and future tool grades or other period-over-period information such as change in Stuff+ YoY.
